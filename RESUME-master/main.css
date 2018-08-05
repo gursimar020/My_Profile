@@ -93,6 +93,13 @@ h3 {
     
 }
 
+#button2{
+    background-color: #f5d659;
+	color: black;
+	margin-left: 40px;
+    
+}
+
 @import url("font.css");
 html {
     height: 100%;
